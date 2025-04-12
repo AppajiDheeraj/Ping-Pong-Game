@@ -4,8 +4,7 @@ A fun and interactive **2-player Ping Pong game** powered by real-time **hand tr
 
 No controllers needed — just use your **hands as paddles** and battle it out with a friend.
 
-https://user-images.githubusercontent.com/your-demo.gif <!-- Optional: Add your demo gif if you have one -->
-
+![Demo](./Resorces/pingpong-ezgif.com-optimize.gif)
 ---
 
 ## 🎮 Features
